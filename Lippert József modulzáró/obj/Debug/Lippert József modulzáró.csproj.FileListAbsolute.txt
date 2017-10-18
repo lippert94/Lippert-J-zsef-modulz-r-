@@ -1,0 +1,17 @@
+C:\Users\lippertjozsef\source\repos\Lippert József modulzáró\Lippert József modulzáró\bin\Debug\Lippert József modulzáró.exe.config
+C:\Users\lippertjozsef\source\repos\Lippert József modulzáró\Lippert József modulzáró\bin\Debug\Lippert József modulzáró.exe
+C:\Users\lippertjozsef\source\repos\Lippert József modulzáró\Lippert József modulzáró\bin\Debug\Lippert József modulzáró.pdb
+C:\Users\lippertjozsef\source\repos\Lippert József modulzáró\Lippert József modulzáró\obj\Debug\Lippert József modulzáró.csprojResolveAssemblyReference.cache
+C:\Users\lippertjozsef\source\repos\Lippert József modulzáró\Lippert József modulzáró\obj\Debug\MainWindow.g.cs
+C:\Users\lippertjozsef\source\repos\Lippert József modulzáró\Lippert József modulzáró\obj\Debug\PatientData.g.cs
+C:\Users\lippertjozsef\source\repos\Lippert József modulzáró\Lippert József modulzáró\obj\Debug\App.g.cs
+C:\Users\lippertjozsef\source\repos\Lippert József modulzáró\Lippert József modulzáró\obj\Debug\Lippert József modulzáró_MarkupCompile.cache
+C:\Users\lippertjozsef\source\repos\Lippert József modulzáró\Lippert József modulzáró\obj\Debug\Lippert József modulzáró_MarkupCompile.lref
+C:\Users\lippertjozsef\source\repos\Lippert József modulzáró\Lippert József modulzáró\obj\Debug\MainWindow.baml
+C:\Users\lippertjozsef\source\repos\Lippert József modulzáró\Lippert József modulzáró\obj\Debug\PatientData.baml
+C:\Users\lippertjozsef\source\repos\Lippert József modulzáró\Lippert József modulzáró\obj\Debug\Lippert József modulzáró.g.resources
+C:\Users\lippertjozsef\source\repos\Lippert József modulzáró\Lippert József modulzáró\obj\Debug\Lippert_József_modulzáró.Properties.Resources.resources
+C:\Users\lippertjozsef\source\repos\Lippert József modulzáró\Lippert József modulzáró\obj\Debug\Lippert József modulzáró.csproj.GenerateResource.Cache
+C:\Users\lippertjozsef\source\repos\Lippert József modulzáró\Lippert József modulzáró\obj\Debug\Lippert József modulzáró.csproj.CoreCompileInputs.cache
+C:\Users\lippertjozsef\source\repos\Lippert József modulzáró\Lippert József modulzáró\obj\Debug\Lippert József modulzáró.exe
+C:\Users\lippertjozsef\source\repos\Lippert József modulzáró\Lippert József modulzáró\obj\Debug\Lippert József modulzáró.pdb
